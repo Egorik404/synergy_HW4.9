@@ -15,4 +15,4 @@ This application allows you to view jokes. You can view jokes from the database.
 
 - `main.py`: Main file to run the application and manage the GUI.
 - `Anecdotes.db`: Database file, where all jokes are stored
-- `refresh.png`: Image file? which is the random button icon.
+- `refresh.png`: Image file? which is the random button icon. 
